@@ -1,4 +1,4 @@
-# What You Master Today: Android Edition
+# What You Master Today: Android Avengers
 
 Welcome to the "What You Master Today: Android Edition" repository! This collaborative space is dedicated to exploring, learning, and sharing insights, experiments, and discoveries in the exciting world of Android development. Whether you're an experienced Android developer or just starting out, this repository is your platform to grow and master new skills.
 
@@ -30,5 +30,5 @@ When making your daily update, please follow this format:
 - **Date**: [Date of your update]
 - **Description**: [Brief description of your update, experiment, or discovery in the Android field]
 - **Code Snippet (if applicable)**:
-  ```java
-  // Your Java or Kotlin code snippet
+  ```Kotlin
+  // Your Kotlin code snippet
